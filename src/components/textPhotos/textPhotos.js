@@ -14,7 +14,7 @@ class TextPhotos extends React.Component{
         return <div className="container">
             <div className="row">
 
-        <div className="col-md-12">
+        <div className="col-md-12 text-center">
             <img className="mt-5" src={img} alt="rasm" />
             <img className="mt-5" src={img2} alt="rasm" />
             <img className="mt-5" src={img} alt="rasm" />

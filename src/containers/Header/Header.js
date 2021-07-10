@@ -61,7 +61,7 @@ class Header extends React.Component{
                     </button>
                 </div>
                 <Slide direction="down" className={`menu-mobile d-lg-none w-100 ${this.state.hideHeader && "d-none" || ""}`}>
-                <ul className="menu text-center mt-5">
+                <ul className="menu  mt-5">
                         <li className="my-4">
                             <a href="#">Features</a>
                         </li>

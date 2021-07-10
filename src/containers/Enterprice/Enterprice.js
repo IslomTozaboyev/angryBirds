@@ -8,8 +8,8 @@ class Enterprice extends React.Component{
     render() {
         return <div className="enterprice">
             <div className="container">
-                <div className="row text-center mt-5  text-white">
-                    <div className="col-md-12">
+                <div className="row mt-5  text-white">
+                    <div className="col-md-12 text-center ">
                         <h1>Framer is for teams, too.</h1>
                         <p>Join a growing list of companies who use Framer to make all the products you know and love.</p>
                         <button className="btn btn-light py-2 p-5 mt-4">

@@ -28,11 +28,11 @@ class About extends React.Component{
         return <section>
             <Container>
                 <div className="row d-flex justify-content-center align-items-center">
-                    <div className="col-md-12">
+                    <div className="col-md-12 text-center">
                     <Title heading="Get ahead of the pack." subtitle="Framer is the best way to create interactive designs from start to finish."/>
                     </div>
                </div>
-                <div className="row d-flex justify-content-center align-items-center text-center">
+                <div className="row d-flex justify-content-center align-items-center">
                 <TextPhotos/>
                </div>
             </Container>

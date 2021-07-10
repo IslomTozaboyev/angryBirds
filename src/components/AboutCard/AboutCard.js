@@ -16,8 +16,8 @@ class AboutCard extends React.Component{
                 <h2 className="text-center">{ this.state.title}</h2>
                  <p className="text-center">{ this.state.subtitle}</p>
                   <div className="text-center">
-                    <button className="btn btn-primary me-2 mt-4">{ this.state.button1}</button>
-                      <button className="btn btn-primary ms-2 m-0 mt-4">{ this.state.button2}</button>
+                    <button className="btn btn-primary me-3 mt-4">{ this.state.button1}</button>
+                      <button className="btn btn-primary ms-3 m-0 mt-4">{ this.state.button2}</button>
             </div>
         </div>
     </div>

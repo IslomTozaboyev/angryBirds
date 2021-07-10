@@ -12,7 +12,7 @@ class Footer extends React.Component{
     render() {
         return <div className="Footer">
             <div className="container">
-                <div className="row text-center">
+                <div className="row">
                     <div className="col-sm-6 col-md-4 col-lg-2 mt-5">
                         <ul>
                             <li className="fw-bold mb-3 text-white">Framer</li> 
