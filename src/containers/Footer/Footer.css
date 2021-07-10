@@ -1,0 +1,11 @@
+.Footer {
+  background: #000;
+  padding-top: 50px;
+  margin-top: 1px;
+}
+.Footer ul {
+  list-style-type: none;
+}
+.Footer ul li {
+  cursor: pointer;
+}

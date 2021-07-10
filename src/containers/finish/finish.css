@@ -1,0 +1,8 @@
+.finish {
+  background: #000;
+  padding-top: 70px;
+}
+.finish img {
+  width: 300px !important;
+  cursor: pointer;
+}

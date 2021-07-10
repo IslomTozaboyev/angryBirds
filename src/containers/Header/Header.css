@@ -1,0 +1,24 @@
+.header__section ul {
+  list-style-type: none;
+}
+.header__section ul li {
+  padding: 0 30px;
+}
+.header__section ul li a {
+  text-decoration: none;
+  color: black;
+}
+.menu-mobile {
+  transition: 0.5s !important;
+  overflow: hidden;
+  animation-name: show;
+  animation-duration: 0.3s;
+}
+.menu {
+  background: #fff9f9;
+}
+@media screen and (max-width: 1200px) {
+  .header__section ul li {
+    padding: 0px 20px !important;
+  }
+}

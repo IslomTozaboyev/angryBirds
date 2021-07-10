@@ -1,0 +1,18 @@
+.title h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+.title p {
+  font-size: 20px;
+}
+.title button,
+input {
+  outline: none;
+}
+.title button {
+  width: 200px !important;
+  padding: 10px;
+  background: #07a7fe;
+  border: none;
+  color: white;
+}

@@ -1,0 +1,26 @@
+.aboutCard {
+  background-image: linear-gradient(
+    to right top,
+    #134fff,
+    #3464ff,
+    #4d78ff,
+    #658bff,
+    #7c9dfe
+  ) !important;
+  color: white;
+  padding: 50px;
+}
+.aboutCard h2 {
+  font-size: 40px;
+}
+
+.aboutCard p {
+  font-size: 20px;
+}
+
+@media screen and (max-width: 350px) {
+  .aboutCard button {
+    margin: 0 !important;
+    margin-top: 10px !important;
+  }
+}
